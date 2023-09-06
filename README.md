@@ -11,7 +11,7 @@
 Before you begin, ensure you have met the following requirements:
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (or another supported database)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### Installation
 
